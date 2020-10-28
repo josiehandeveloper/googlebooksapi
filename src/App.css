@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    display: inline;
+    font-weight: 300;
+}
